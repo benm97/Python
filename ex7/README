@@ -1,0 +1,35 @@
+benm
+341145811
+Benjamin Maman
+
+
+===================
+=  README for ex7 =
+===================
+ex7.py
+
+==================
+=  Description:  =
+==================
+
+Some recursive functions does the following:
+-Print all numbers from 1 to n
+-Print all numbers from n to 1
+-Saying if n has divisor smaller than i
+-Checking if a number n is prime
+-Giving a list of all divisors of n bigger than (or equal to) i
+-Giving all the divisors of a number n
+-Get n factorial
+-plays (and win) an hanoi game
+-Print all sequences of size n of 0 and 1 beginning by the prefix
+-Print all sequences of size n of 0 and 1
+-Print all sequences of size n of characters from char_list beginning by
+the prefix
+-Print all sequences of size n of characters from char_list
+-Print all sequences of size n of characters from char_list beginning by
+the prefix, without repetition
+-Print all sequences of size n of characters from char_list, without repetition
+-Return a list of all sequences of size n of characters from char_list
+beginning by the prefix, without repetition
+-Return a list of all sequences of size n of characters from char_list
+without repetition

@@ -1,0 +1,21 @@
+benm
+341145811
+Benjamin Maman
+
+
+===================
+=  README for ex7 =
+===================
+ex10.py
+
+==================
+=  Description:  =
+==================
+
+We have:
+-node class to contains nodes of a tree
+-record class
+-diagnose class contains some methods to deal with the tree and
+symptoms/records
+-others functions to build a tree, and to choose the best tree for a given
+depth

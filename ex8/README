@@ -1,0 +1,30 @@
+benm
+341145811
+Benjamin Maman
+
+
+===================
+=  README for ex8 =
+===================
+car.py
+board.py
+game.py
+
+==================
+=  Description:  =
+==================
+
+A rush hour game:
+`````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+-car.py contains the Car class. We define all the attributes of a car,
+and list_locations method, to check every place taken by a car.
+It also contains Direction class
+
+-board.py contains the Board class. This class representing the rush hour game.
+It have the size of the board, the cars on it, and the exit location as
+attributes. And many methods used to print a representation of the board,
+or to move/add a car to the board
+
+-game.py contains the Game class, that's handling the game,
+responsible to the interaction with the user, checking that all legal
+(regarding the rules) and checking victory
