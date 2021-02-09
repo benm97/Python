@@ -1,0 +1,33 @@
+benm
+341145811
+Benjamin Maman
+
+
+===================
+=  README for ex4 =
+===================
+hangman.py
+
+==================
+=  Description:  =
+==================
+A hangman game, using those those functions:
+-letter_to_index:
+     Return the index of the given letter in an alphabet list.
+-index_to_letter:
+     Return the letter corresponding to the given index
+-update_word_pattern
+     A function to update the pattern with a letter
+-run_single_game
+     Running the game
+-correspond
+     A function to check if a word correspond to
+     the pattern and to the wrong guess list
+-filter_words_list
+        A function to filter list of words to keep only words whose
+         correspond to the pattern and to the wrong guess list
+-choose_letter
+      A function that return the most occurred letter in a list of words,
+      that's not already in the pattern
+-main
+     Launching the game until the user click on no more

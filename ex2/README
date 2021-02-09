@@ -1,0 +1,24 @@
+benm
+341145811
+Benjamin Maman
+
+
+===================
+=  README for ex2 =
+===================
+1-calculate_mathematical_expression.py
+2-convert_spoon_to_cup.py
+3-largest_and_smallest.py
+4-quadratic_equation.py
+5-shapes.py
+6-temperature.py
+==================
+=  Description:  =
+==================
+1-Two functions to get the result of an expression
+2-A function that convert number of spoon to number of cups
+3-A function that returns the largest and the smallest between 3 numbers
+4-Functions that returns solution of quadratic equation
+5-A function to calcul area of differents shapes
+6-Function that checks if the temperature get over a fixed
+  limit in 2 between 3 days

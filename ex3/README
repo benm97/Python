@@ -1,0 +1,42 @@
+benm
+341145811
+Benjamin Maman
+
+
+===================
+=  README for ex3 =
+===================
+ex3.py
+
+==================
+=  Description:  =
+==================
+Different function on the list:
+-Function that's get a list of string and return a string
+with all the elements of the list
+- Function that's get a list of numbers and return their average
+- Function that's get two list and return true if
+one is a cyclic permutation of the other
+-A function that's for a n and a list of number return the histogram until n
+-A function to decompose a natural n to a product of prime number
+-A function that's return all the combination lst1 members
+with lst2 members (cartesian multiplication)
+-A function to get couple of numbers from a list,
+with the sum for each couple is n
+
+==================
+=  Questions:    =
+==================
+
+1- My code will return true, because 'bcda' is a cyclic permutation of 'abcd'
+with m=3 and strings act like list (for what I used)
+2- My code will return [0, 1, 1],
+because 0 appear 0 times, 1 one time and 2 one time
+and we don't taking care of numbers over 2
+3- My code will return [], the for is running on range(2,1) (nothing)
+ so the program doesn't come in the loop and the list stays empty
+4- My code will return [(0, 2)], because this the only couple in
+ the list with sum equal to 2, and I'me checking every time that
+ the same couple isn't in the return list
+
+ 

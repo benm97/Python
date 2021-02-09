@@ -1,0 +1,22 @@
+benm
+341145811
+Benjamin Maman
+
+
+=================================================
+=  README for ex1: Hello_turtle and math_print  =
+=================================================
+
+
+==================
+=  Description:  =
+==================
+Hello_turtle draws a bed of 3 flowers
+
+Math_print create and call some mathematical functions:
+-display golden ration
+-display 6^2
+-display lenght of the hypothenuse for a specific right triangle
+-display pi
+-display e
+-display area of squares with edges from 1 to 10
